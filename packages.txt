@@ -1,0 +1,5 @@
+http://archive.ubuntu.com/ubuntu/pool/universe/q/qscintilla2/libqscintilla2-qt5-l10n_2.14.1%2bdfsg-1build3_all.deb
+http://archive.ubuntu.com/ubuntu/pool/universe/q/qtbase-opensource-src/libqt5printsupport5t64_5.15.13%2bdfsg-1ubuntu1_amd64.deb
+http://archive.ubuntu.com/ubuntu/pool/universe/q/qscintilla2/libqscintilla2-qt5-15_2.14.1%2bdfsg-1build3_amd64.deb
+http://archive.ubuntu.com/ubuntu/pool/universe/q/qtbase-opensource-src/libqt5xml5t64_5.15.13%2bdfsg-1ubuntu1_amd64.deb
+http://archive.ubuntu.com/ubuntu/pool/universe/s/sqlitebrowser/sqlitebrowser_3.12.2-3build2_amd64.deb
